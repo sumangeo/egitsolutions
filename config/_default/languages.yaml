@@ -4,7 +4,7 @@ en:
   ### copyright (markdown can be used) ###
   copyright: "Copyright &copy; {{< current_year >}} EGIT Solutions. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   title: "EGIT Solutins"
-  description: "Site Description"
+  description: "Quickly IT Services"
   params:
     ### accessibility ###
     accessibility:
@@ -27,7 +27,7 @@ en:
       url: "/example-page/"
       weight: 1
     - identifier: "child-1"
-      name: "Example Child Page"
+      name: "Services 1"
       url: "/example-page/"
       weight: 1
       post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
@@ -42,7 +42,7 @@ en:
       name: "Example Child Page"
       url: "/example-page/"
       weight: 3
-      post: "Nulla consequat massa quis enim. Donec pede justo."
+      post: "This is test by Suman"
       parent: "about"
     - identifier: "example"
       name: "Example"
